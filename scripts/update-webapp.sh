@@ -7,7 +7,7 @@
 # Usage: ./update-webapp.sh
 
 # --- Configuration ---
-REPO="l-zch/sessionflow-webapp"
+REPO="l1n-zh/sessionflow-webapp"
 API_URL="https://api.github.com/repos/$REPO/releases/latest"
 TARGET_DIR="src/main/resources/static/sessionflowapp"
 VERSION_FILE="$TARGET_DIR/version.txt"
