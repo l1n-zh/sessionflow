@@ -3,7 +3,7 @@
 
 set -e
 
-REPO="l-zch/sessionflow"
+REPO="l1n-zh/sessionflow"
 API_URL="https://api.github.com/repos/$REPO/releases/latest"
 ASSET_NAME="sessionflow.jar"
 
